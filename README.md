@@ -1,5 +1,5 @@
 # juggle
-a simple arcade game for 1-4 players
+an immersive arcade game for 1-4 players
 
 [learn more](https://2016.christiangimber.com/juggle.html)
 
